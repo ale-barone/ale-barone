@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Alessandro 👋
 
-<!--
-**ale-barone/ale-barone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a postdoctoral researcher in theoretical and computational particle physics
+at Johannes Gutenberg University Mainz, working on lattice quantum chromodynamics
+(lattice QCD).
 
-Here are some ideas to get you started:
+My work sits at the intersection of theoretical physics, mathematical modelling, high-performance
+computing, and scientific software development. On GitHub you can find:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[labc](https://github.com/ale-barone/labc)** — my open-source Python library
+  for lattice QCD data analysis (statistical resampling, error propagation,
+  fitting, signal reconstruction, visualisation), used in published research.
+- **[Hadrons](https://github.com/aportelli/Hadrons)** — a C++ workflow management system for lattice field theory simulations,
+  to which I contributed the RHQ modules
+  for improved currents in the Relativistic Heavy Quark action
+  ([Zenodo v1.3](https://doi.org/10.5281/zenodo.6382460)).
+- **[Grid](https://github.com/paboyle/Grid)** — the underlying data-parallel C++
+  library that Hadrons builds on.
